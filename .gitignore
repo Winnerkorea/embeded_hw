@@ -1,0 +1,7 @@
+# OS / System Files
+.DS_Store
+Thumbs.db
+
+# Dependencies / Symlinks
+node_modules/
+ppt_build/node_modules
